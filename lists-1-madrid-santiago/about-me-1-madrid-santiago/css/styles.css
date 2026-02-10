@@ -1,0 +1,53 @@
+body{
+    width: 1366px;
+    height: 768px;
+    background-color: rgb(6, 68, 68);
+    text-align: center;
+}
+img {
+width: 300px;
+
+
+}
+div {
+    background-color: rgb(100, 237, 146);
+    margin: auto;
+    border: solid;
+    margin-bottom: 50px;
+}
+#section{
+    width: 700px;
+    height: 600px;
+
+}
+hr {
+    width: 250px;
+}
+ol {
+    width: 50%;
+    margin: auto;
+    background-color: rgb(174, 103, 241);
+    text-align: left;
+}
+a{
+    background-color: darkblue;
+    padding: 0px 150px;
+}
+a:hover{
+    background-color: darkcyan;
+}
+main {
+    width: 60%;
+    margin: auto;
+    text-align: center;
+
+}
+header{
+    text-align: center;
+}
+p {
+    padding: 0px 2%;
+    float:left;
+    width: 25%; 
+    text-align: left;
+}

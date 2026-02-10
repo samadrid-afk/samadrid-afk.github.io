@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+
+section.top{
+    background-color: blueviolet;
+}
+div.diagonal{
+    background-color: mediumvioletred;
+    width: 0;
+    height: 0;
+    border-right: 100vw solid transparent ;
+    border-bottom: 13.9vw solid darkolivegreen;
+    margin-top: -13.9vw;
+}
+section.bottom{
+    background-color: rgb(142, 255, 114);
+}
+img {
+    width: 300px;
+    height: auto; 
+  }
+  section.bottom h2{
+    margin-top: -13.9vw;
+}
+  h1.center{
+
+    position: absolute;
+    font-size: 15em;
+    top: 30vh;
+    left: 40vw;
+  }
+

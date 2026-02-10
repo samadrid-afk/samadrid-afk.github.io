@@ -1,0 +1,11 @@
+img {
+    background-color: orange;
+    padding: 100px 50px;
+    margin: 50px;
+    border-radius: 25%;
+}
+div{
+    background-color: blueviolet;
+    width: 50%;
+    border-radius: 10%;
+}

@@ -1,0 +1,41 @@
+div {
+    background-color: orange;
+    width: 100%;
+}
+div div {
+    background-color: red;
+    width: 45%;
+    padding: 2.5%;
+    float: left;
+}
+div div div{
+    background-color: blues;
+}
+
+
+
+h1 {
+    color:red;
+}
+
+div {
+    background-color: orange
+}
+
+div div {
+    background-color: red;
+}
+
+div div div{
+    background-color: blue;
+}
+
+.picdec{
+    width: 50%;
+}
+.large{
+    width: 300px;
+    height: 200px;
+
+}
+

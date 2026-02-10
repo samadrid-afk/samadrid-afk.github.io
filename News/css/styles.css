@@ -1,0 +1,48 @@
+img{
+
+    width: 250px;
+
+}
+nav *{
+    float: left;
+}
+hr{
+    clear: both;
+}
+
+button {
+    background-color: red;
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    width: 170px;
+    font-size: 2em;
+}
+
+.col-1{
+
+float: left;
+width: 30%;
+text-align: left;
+
+
+}
+.col-2{
+    float: left;
+width: 40%;
+text-align: center;
+}
+
+.col-3{
+
+    float: left;
+  width: 30%;
+  text-align: right;
+}
+
+.col-1 img{
+    width: 250px
+}
+.group img{
+    width: 130px;
+}
