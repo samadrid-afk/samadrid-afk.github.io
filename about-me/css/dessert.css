@@ -43,3 +43,15 @@ main {
     text-align: center;
 
 }
+a.back{
+    width: 50px;
+    height: 50px;
+    border-radius: 5px;
+    background-color: aquamarine;
+    display: block;  
+  }
+  a.back img{
+    width: 50px;
+    height: 50px;
+    
+  }

@@ -1,0 +1,45 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: rgba(0, 60, 27, 0.786);
+}
+img{
+    width: 700px;
+
+}
+.center{
+    text-align: center;
+    clear: both;
+}
+h2{
+
+}
+div {
+    background-color: rgb(0, 4, 244);
+    margin: auto;
+    border: solid;
+    margin-bottom: 50px;
+}
+a{
+    background-color: rgb(27, 159, 199);
+    padding: 0px 25px;
+}
+a:hover{
+    background-color: rgb(11, 101, 219);
+}
+nav{
+    text-align: center;
+    }
+    a.back{
+        width: 50px;
+        height: 50px;
+        border-radius: 5px;
+        background-color: aquamarine;
+        display: block;  
+      }
+      a.back img{
+        width: 50px;
+        height: 50px;
+        
+      }
